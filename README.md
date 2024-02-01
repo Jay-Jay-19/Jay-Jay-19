@@ -1,6 +1,6 @@
 <h1 align="center">Hello you ! 🤗</h1>
 
-<h3>Je m'appelle Gilbert, mon surnom c'est Jay et je suis un développeur web/app full stack en quête de ma première alternance 🤓</h3>
+<h3>Je m'appelle Gilbert (mon surnom c'est "Jay") et je suis un développeur web/app full-stack junior en quête de ma première alternance 🤓</h3>
 
 [![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
 [![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
