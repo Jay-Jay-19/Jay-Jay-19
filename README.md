@@ -2,8 +2,7 @@
 
 <h3>Je m'appelle Gilbert (mon surnom c'est "Jay") et je suis un développeur web/app full-stack junior en quête de ma première alternance 🤓</h3>
 
-[![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
-[![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
+[![Linkedin: gilbert-m](https://img.shields.io/badge/-GilbertM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbert-m-598a0b2b1)](https://www.linkedin.com/in/gilbert-m-598a0b2b1)
 
 - 🖥️ Je travaille actuellement sur un projet personnel de **site e-commerce**.
 
