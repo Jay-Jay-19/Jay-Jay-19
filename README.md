@@ -1,16 +1,17 @@
 <h1 align="center">Hello you ! 🤗</h1>
-<h3>Je m'appelle Gilbert, lmon surnom c'est Jay et je suis un développeur web/app full-stac ka full stack en quête de ma première alternance 🤓</h3>
+
+<h3>Je m'appelle Gilbert, mon surnom c'est Jay et je suis un développeur web/app full stack en quête de ma première alternance 🤓</h3>
 
 [![Linkedin: kai-lam](https://img.shields.io/badge/-kailam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kai-lam)](https://linkedin.com/in/kai-lam)
 [![GitHub kailam-ada](https://img.shields.io/github/followers/kailam-ada?label=follow&style=social)](https://github.com/kailam-ada)
 
-- 🖥️ Je travaille actuellement sur un projet personnel de **site e-commerce**
+- 🖥️ Je travaille actuellement sur un projet personnel de **site e-commerce**.
 
-- 🌱 Je me forme sur **React**
+- 🌱 Je me forme en ce moment sur **React**.
 
 - 🦉 Je suis étudiant à [Ada Tech School](https://adatechschool.fr/), une école avec des __valeurs fortes !__
 
-- 🙏 J'aime le __travail d'équipe__ car ensemble on va plus loin (sooo 🧀🧀🧀). J'aime surtout les __relations humaines__.
+- 🙏 J'aime le __travail d'équipe__ car ensemble on va plus loin (sooo 🧀🧀🧀). En fait, j'aime surtout les __relations humaines__👯‍♂️👯‍♀️👯‍♂️
 
 - 👨‍💻 Je recherhce une __alternance__ d'un an, au rythme de 4j en entreprise et 1j à l'école.
 
@@ -18,7 +19,7 @@
 
 - 🎯 Mon profil vous intéresse 🤗 ? Shootez un email à **[gilbertmougamadou@yahoo.fr](mailto:gilbertmougamadou@yahoo.fr)**
 
-- ⚡ Fun fact : **J'ai été en Moldvaie.**
+- ⚡ Fun fact : **J'ai été en Moldavie.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,9 +27,6 @@
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
