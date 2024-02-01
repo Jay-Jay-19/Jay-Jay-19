@@ -1,6 +1,6 @@
-<h1 align="center">Hello you ! 🤗</h1>
+<h1 align="center">Hello you 🤗</h1>
 
-<h3>Je m'appelle Gilbert (mon surnom c'est "Jay") et je suis un développeur web/app full-stack junior en quête de ma première alternance 🤓</h3>
+<h3>Je m'appelle Gilbert (mon surnom c'est "Jay") et je suis un développeur web/app full-stack junior en quête de ma première alternance ! 🤓</h3>
 
 [![Linkedin: gilbert-m](https://img.shields.io/badge/-GilbertM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbert-m-598a0b2b1)](https://www.linkedin.com/in/gilbert-m-598a0b2b1)
 
