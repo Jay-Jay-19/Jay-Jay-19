@@ -12,7 +12,7 @@
 
 - 🙏 J'aime le __travail d'équipe__ car ensemble on va plus loin (sooo 🧀🧀🧀). En fait, j'aime surtout les __relations humaines__ 👯‍♂️👯‍♀️👯‍♂️.
 
-- 👨‍💻 Je recherhce une __alternance__ d'un an, au rythme de 4j en entreprise et 1j à l'école.
+- 👨‍💻 Je recherche une __alternance__ d'un an, au rythme de 4j en entreprise et 1j à l'école.
 
 - 🙋‍♂️ Je suis immédiatement __disponible !__
 
