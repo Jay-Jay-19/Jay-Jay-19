@@ -2,7 +2,7 @@
 
 <h3>Je m'appelle Gilbert (mon surnom c'est "Jay") et je suis un développeur web/app full-stack junior en quête de ma première alternance ! 🤓</h3>
 
-[![Linkedin: gilbert-m](https://img.shields.io/badge/-GilbertM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/gilbert-jay-m-598a0b2b1)](www.linkedin.com/in/gilbert-jay-m-598a0b2b1)
+[![Linkedin: gilbert-m](https://img.shields.io/badge/-GilbertM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gilbert-jay-m-598a0b2b1)](https://linkedin.com/in/gilbert-jay-m-598a0b2b1)
 
 - 🖥️ Je travaille actuellement sur un projet personnel de **site e-commerce**.
 
